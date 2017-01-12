@@ -1,4 +1,4 @@
-package com.fangzg.proxy.service.proxy;
+package com.fangzg.proxy.beans;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
